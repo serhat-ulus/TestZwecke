@@ -93,7 +93,7 @@ public class TestZwecke implements EntryPoint {
 			}
 
 			/**
-			 * Fired when the user types in the nameField.
+			 * Fired when the user types in the nameField. Das ist Klasse :-)
 			 */
 			public void onKeyUp(KeyUpEvent event) {
 				if (event.getNativeKeyCode() == KeyCodes.KEY_ENTER) {
